@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+article {
+  background-color: white;
+}
+nav {
+  background-color: black;
+}
+.container a {
+  text-decoration: none;
+}
